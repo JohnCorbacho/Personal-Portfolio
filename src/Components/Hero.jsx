@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const Hero = () => {
   const variants = {
     hidden: { opacity: 0, y: 50 },
-    visible: { opacity: 1, y: 0, transition: { duration: 0.5 } },
+    visible: { opacity: 1, y: 0, transition: { duration: 1 } },
   };
 
   return (
