@@ -32,7 +32,7 @@ const Footer = () => {
           variants={swayAnimation}
           className="my-1 text-md"
         >
-          Phone: (786) 970-9634
+          Phone: (786) 475-2460
         </motion.p>
         <motion.p
           initial="hidden"
